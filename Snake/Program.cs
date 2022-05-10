@@ -5,12 +5,7 @@ namespace Snake
     class Program
     {
         static void Main(string[] args)
-        {
-<<<<<<< Updated upstream
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
-        }
-=======
+        { 
             Point p1 = new Point();
             p1.x = 1;
             p1.y = 3;
@@ -25,7 +20,5 @@ namespace Snake
 
             Console.ReadLine();
         }
-        
->>>>>>> Stashed changes
     }
 }

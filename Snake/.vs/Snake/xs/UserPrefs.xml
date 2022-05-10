@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{28246A81-4978-4A19-A9D7-FF76A5852078}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VerticalLine.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Figure.cs">
     <Files>
-      <File FileName="Program.cs" Line="20" Column="1" />
-      <File FileName="Point.cs" Line="20" Column="1" />
+      <File FileName="Program.cs" Line="23" Column="1" />
+      <File FileName="Point.cs" Line="26" Column="1" />
       <File FileName="HorisontalLine.cs" Line="31" Column="1" />
-      <File FileName="VerticalLine.cs" Line="25" Column="10" />
+      <File FileName="VerticalLine.cs" Line="27" Column="1" />
+      <File FileName="Figure.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Snake" expanded="True">
             <Node name="Snake" expanded="True">
-              <Node name="VerticalLine.cs" selected="True" />
+              <Node name="Figure.cs" selected="True" />
             </Node>
           </Node>
         </State>

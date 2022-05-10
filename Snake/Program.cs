@@ -7,8 +7,7 @@ namespace Snake
     {
         static void Main(string[] args)
         {
-            Console.SetBufferSize(80, 25);
-
+      
             //Отрисовка рамочки
             HorisontalLine upLine = new HorisontalLine(0, 78, 0, '+');
             HorisontalLine downLine = new HorisontalLine(0, 78, 24, '+');

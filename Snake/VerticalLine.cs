@@ -3,27 +3,16 @@ using System.Collections.Generic;
 
 namespace Snake
 {
-    public class VerticalLine
+    public class VerticalLine : Figure
     {
-        List<Point> pList;
-
-        public VerticalLine(int x, int yHigh, int yLow, char sym)
+        public VerticalLine(int yUp, int yDown, int x, char sym)
         {
             pList = new List<Point>();
-            for (int y = yHigh; y <= yLow; y++)
+            for (int y = yUp; y <= yDown; y++)
             {
                 Point p = new Point(x, y, sym);
                 pList.Add(p);
             }
-        }
-
-        public void DrowVLine()
-        {
-            foreach (Point p in pList)
-            {
-                p.Draw();
-            }
-
         }
     }
 }

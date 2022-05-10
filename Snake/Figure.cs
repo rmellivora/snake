@@ -1,10 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace Snake
 {
     public class Figure
     {
-        public Figure()
+        protected List<Point> pList = new List<Point>();
+        
+
+        public void Drow()
         {
+            foreach (Point p in pList)
+            {
+                p.Draw();
+            }
+
         }
+
     }
 }

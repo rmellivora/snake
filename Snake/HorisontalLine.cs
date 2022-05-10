@@ -3,10 +3,8 @@ using System.Collections.Generic;
 
 namespace Snake
 {
-    public class HorisontalLine
+    public class HorisontalLine : Figure
     {
-        List<Point> pList;
-
         public HorisontalLine(int xLeft, int xRight,int y, char sym)
         {
             pList = new List<Point>();
@@ -15,15 +13,6 @@ namespace Snake
                 Point p = new Point(x, y, sym);
                 pList.Add(p);
             }
-        }
-
-        public void Drow()
-        {
-            foreach(Point p in pList)
-            {
-                p.Draw();
-            }
-            
         }
 
     }

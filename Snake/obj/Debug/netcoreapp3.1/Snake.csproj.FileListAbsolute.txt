@@ -1,0 +1,13 @@
+/Users/work/github/repo/snake/Snake/bin/Debug/netcoreapp3.1/Snake.deps.json
+/Users/work/github/repo/snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.json
+/Users/work/github/repo/snake/Snake/bin/Debug/netcoreapp3.1/Snake.runtimeconfig.dev.json
+/Users/work/github/repo/snake/Snake/bin/Debug/netcoreapp3.1/Snake.dll
+/Users/work/github/repo/snake/Snake/bin/Debug/netcoreapp3.1/Snake.pdb
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.csproj.AssemblyReference.cache
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfoInputs.cache
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.AssemblyInfo.cs
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.csproj.CoreCompileInputs.cache
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.dll
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.pdb
+/Users/work/github/repo/snake/Snake/obj/Debug/netcoreapp3.1/Snake.genruntimeconfig.cache

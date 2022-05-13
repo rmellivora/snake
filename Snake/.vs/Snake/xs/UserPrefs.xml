@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{28246A81-4978-4A19-A9D7-FF76A5852078}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Snake.cs">
     <Files>
-      <File FileName="Program.cs" Line="27" Column="60" />
+      <File FileName="Program.cs" Line="27" Column="26" />
       <File FileName="Point.cs" />
       <File FileName="HorisontalLine.cs" />
       <File FileName="VerticalLine.cs" />
       <File FileName="Figure.cs" />
-      <File FileName="Snake.cs" Line="12" Column="19" />
+      <File FileName="Snake.cs" Line="12" Column="10" />
       <File FileName="Directions.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
